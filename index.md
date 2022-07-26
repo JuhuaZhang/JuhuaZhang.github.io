@@ -4,5 +4,5 @@ Hello I'm Jiahao Zhang, major in ECE MEng in UIUC.
 
 My current interests are:
 - Computer Vision
-- Computer Graphic
+- Computer Graphics
 - Robotics
